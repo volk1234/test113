@@ -1,0 +1,9 @@
+{
+    "expiration": "2030-12-31",
+    "type": "minecraft",
+    "limit": 100,
+    "approver": "denis_azarov@epam.com",
+    "project": "sndx",
+    "project_coordinator": "denis_azarov@epam.com",
+    "account_id": "056618128975"
+}
